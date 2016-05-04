@@ -1,1 +1,1 @@
-puts "WTF?"
+puts "WTF"
